@@ -1,6 +1,8 @@
  
 
 
+> Puedes jugar desde https://makecode.com/_Wj7KFcUsa5o7
+
 > Open this page at [https://adrosogon.github.io/chase-the-fish/](https://adrosogon.github.io/chase-the-fish/)
 
 ## Use as Extension
